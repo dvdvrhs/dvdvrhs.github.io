@@ -4,6 +4,7 @@
     "namespace": "android_app",
     "package_name": "com.RotN.beergammon",
     "sha256_cert_fingerprints":
-    ["FC:09:5E:62:6E:DC:17:21:BF:F0:00:51:A3:2A:F3:87:C0:13:8A:51:0E:CB:8B:7E:F4:9F:11:4D:15:5F:9C:BE"]
+    ["FC:09:5E:62:6E:DC:17:21:BF:F0:00:51:A3:2A:F3:87:C0:13:8A:51:0E:CB:8B:7E:F4:9F:11:4D:15:5F:9C:BE",
+    "FE:F1:34:FA:03:E8:33:F7:D4:E7:8A:C3:5C:F8:8F:51:51:19:42:96:1E:47:03:0D:D8:5A:1A:ED:E8:09:7E:54"]
   }
 }]
