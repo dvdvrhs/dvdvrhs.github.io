@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.RotN.beergammon",
+    "sha256_cert_fingerprints":
+    ["FC:09:5E:62:6E:DC:17:21:BF:F0:00:51:A3:2A:F3:87:C0:13:8A:51:0E:CB:8B:7E:F4:9F:11:4D:15:5F:9C:BE"]
+  }
+}]
